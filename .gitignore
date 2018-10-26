@@ -1,1 +1,4 @@
-pynb_checkpoints/
+.ipynb_checkpoints/
+venv/
+data/events_up_to_01062018.csv
+data/labels_training_set.csv
