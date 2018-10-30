@@ -1,3 +1,5 @@
+# Usage
+A `requirements.txt` file is provided to install needed dependencies. To make use of it, you should run the command `pip install -r requirements.txt`.
 # Términos y Condiciones de los datos.
 
 Trocafone S.A. ha incorporado los datos a Kaggle para su utilización por parte de los alumnos de la materia 75.06 / 95.58 - Organización de Datos (cátedra única, Profesor a cargo Luis Argerich) de la Facultad de Ingeniería de la Universidad de Buenos Aires correspondiente al primer cuatrimestre del año 2018 mientras dure la misma. Los datos son de uso académico exclusivo, quedando expresamente prohibido cualquier uso privado o comercial de los mismos, sin la previa autorización por escrito de Trocafone S.A.
