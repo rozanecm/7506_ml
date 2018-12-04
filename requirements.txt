@@ -97,7 +97,7 @@ PyYAML==3.11
 pyzmq==16.0.2
 qtconsole==4.3.0
 repoze.lru==0.6
-requests==2.13.0
+requests>=2.20.0
 Routes==2.2
 scandir==1.5
 scikit-learn==0.19.1
