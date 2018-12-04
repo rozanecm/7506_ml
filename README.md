@@ -12,4 +12,4 @@ La información contenida en los datos es, además, de carácter estrictamente c
 Los Participantes asumen la responsabilidad por los daños y perjuicios que mal uso de los datos pudiere ocasionar a Trocafone S.A. y a terceros.
 
 # Informe
-To view report presented in class, see the [informe/informe.pdf](informe). Note that further improvements may have been done which will not be described in that file.
+To view report presented in class, see the [informe](informe/informe.pdf). Note that further improvements may have been done which will not be described in that file.
