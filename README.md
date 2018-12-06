@@ -10,3 +10,6 @@ Trocafone S.A. ha incorporado los datos a Kaggle para su utilización por parte 
 La información contenida en los datos es, además, de carácter estrictamente confidencial por lo que cualquier divulgación de los mismos será considerada una falta grave.
 
 Los Participantes asumen la responsabilidad por los daños y perjuicios que mal uso de los datos pudiere ocasionar a Trocafone S.A. y a terceros.
+
+# Informe
+To view report presented in class, see the [informe](informe/informe.pdf). Note that further improvements may have been done which will not be described in that file.
